@@ -19,7 +19,9 @@ This repository contains a collection of **mini projects** developed using **C#*
    ![Suggestion](screenshots/register.png)  
 
 - **Sign In / Login**: Enables registered users to log in securely.
-  ![Suggestion](screenshots/login.png)
+
+<br>
+   ![Suggestion](screenshots/login.png)
 
 ### 🏠 Dashboard
 - **Dashboard (AIO.cs)**: Displays a central hub with links to each mini project.
