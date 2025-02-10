@@ -57,7 +57,7 @@ Below is a brief description of each mini project along with a screenshot of the
 <br>
 
 - **Font Color Dialogue**:  
-  Lets users select and change the font color of text elements. 🎨  
+  It lets users select and change the font and the color of text elements. 🎨  
 
   ![Font Color Dialogue](screenshots/font_color.png)  
 
