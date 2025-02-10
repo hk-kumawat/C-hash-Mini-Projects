@@ -118,5 +118,6 @@ This project is licensed under the terms specified in the [LICENSE](LICENSE) fil
 
 ---
 
+```
 Happy coding! 🧑🏻‍💻
 ```
