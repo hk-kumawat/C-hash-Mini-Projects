@@ -14,6 +14,8 @@ This repository contains a collection of **mini projects** developed using **C#*
 
 ## ✨ Features
 
+<br>
+
 ### 🔐 User Authentication  
 - **Sign Up / Register**: Allows new users to create an account.  
 
