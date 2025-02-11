@@ -149,7 +149,7 @@ Below is a brief description of each mini project along with a screenshot of the
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hk-kumawat-c-mini-projects.git
+git clone https://github.com/hk-kumawat/C-hash-Mini-Projects.git
 ```
 
 ---
