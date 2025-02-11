@@ -1,4 +1,4 @@
-This repository contains a collection of **mini projects** developed using **C#** and the **.NET Framework**. The application starts with a **Register** and **Login** screen, and upon successful authentication, displays a **Dashboard** (AIO.cs) that serves as a central hub to access various assignments. Each assignment demonstrates a specific functionality or UI feature in C#.
+This repository contains a collection of **mini projects** developed using **C#** and the **.NET Framework** during my internship. The application starts with a **Register** and **Login** screen, and upon successful authentication, displays a **Dashboard** (AIO.cs) that serves as a central hub to access various assignments. Each assignment demonstrates a specific functionality or UI feature in C#.
 
 --- 
 
