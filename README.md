@@ -17,7 +17,7 @@ This repository contains a collection of **mini projects** developed using **C#*
 
 ##
 
-## ✨ Features
+## Features✨
 
 <br>
 
@@ -150,7 +150,7 @@ Below is a brief description of each mini project along with a screenshot of the
 
 ##
 
-## 🛠 Installation
+## Installation🛠 
 
 ### Clone the Repository
 ```bash
@@ -173,7 +173,7 @@ git clone https://github.com/hk-kumawat/C-hash-Mini-Projects.git
 
 ##
 
-## 💻 Technologies Used
+## Technologies Used💻
 
 - **C#**
 - **.NET Framework**
@@ -181,7 +181,7 @@ git clone https://github.com/hk-kumawat/C-hash-Mini-Projects.git
 
 ##
 
-## 📜 License
+## License📜
 
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
 
