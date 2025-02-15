@@ -1,6 +1,11 @@
+<a id="readme-top"></a>
+
+## C# Mini Projects
+![C#](https://github.com/user-attachments/assets/5f016830-a3fa-487c-9a62-c5ee0c6f232c)
+
 This repository contains a collection of **mini projects** developed using **C#** and the **.NET Framework** during my internship. The application starts with a **Register** and **Login** screen, and upon successful authentication, displays a **Dashboard** (AIO.cs) that serves as a central hub to access various assignments. Each assignment demonstrates a specific functionality or UI feature in C#.
 
---- 
+## 
 
 ## 📚 Table of Contents
 
@@ -10,7 +15,7 @@ This repository contains a collection of **mini projects** developed using **C#*
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
----
+##
 
 ## ✨ Features
 
@@ -35,7 +40,7 @@ This repository contains a collection of **mini projects** developed using **C#*
 
   ![Dashboard](screenshots/dashboard.png)  
 
----
+##
 
 ### 🛠 Mini Projects  
 Below is a brief description of each mini project along with a screenshot of the UI:  
@@ -143,7 +148,7 @@ Below is a brief description of each mini project along with a screenshot of the
   ![Image Processing](screenshots/Image_Processing.png)  
 
 
----
+##
 
 ## 🛠 Installation
 
@@ -152,7 +157,7 @@ Below is a brief description of each mini project along with a screenshot of the
 git clone https://github.com/hk-kumawat/C-hash-Mini-Projects.git
 ```
 
----
+##
 
 ## ⚙️ Usage
 
@@ -166,7 +171,7 @@ git clone https://github.com/hk-kumawat/C-hash-Mini-Projects.git
 3. **Interacting with Assignments**
    - Each mini project opens in a separate window demonstrating its specific functionality (e.g., color dialogues, tool tips, PDF reader, etc.).
 
----
+##
 
 ## 💻 Technologies Used
 
@@ -174,14 +179,20 @@ git clone https://github.com/hk-kumawat/C-hash-Mini-Projects.git
 - **.NET Framework**
 - **Visual Studio**
 
----
+##
 
 ## 📜 License
 
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
 
----
+
+##
 
 ```
 Happy coding! 🧑🏻‍💻
 ```
+
+
+<p align="right">
+  (<a href="#readme-top">back to top</a>)
+</p>
