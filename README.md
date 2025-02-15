@@ -140,10 +140,10 @@ Below is a brief description of each mini project along with a screenshot of the
 
 - **Image Processing**:  
   Apply filters and transformations to images:  
-  - 🔹 **Grayscale**  
-  - 🔹 **Reddish, Greenish, Bluish effects**  
-  - 🔹 **Symmetry & Mirror effects**  
-  - 🔹 **Binarization (Thresholding)**  
+  -  **Grayscale**  
+  -  **Reddish, Greenish, Bluish effects**  
+  -  **Symmetry & Mirror effects**  
+  -  **Binarization (Thresholding)**  
 
   ![Image Processing](screenshots/Image_Processing.png)  
 
